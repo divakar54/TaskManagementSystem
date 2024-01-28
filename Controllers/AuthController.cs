@@ -3,6 +3,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Security.Cryptography;
+using TaskManagementSystem.DTO;
 using TaskManagementSystem.Models;
 
 namespace TaskManagementSystem.Controllers
